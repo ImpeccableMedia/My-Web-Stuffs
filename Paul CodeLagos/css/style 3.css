@@ -1,0 +1,11 @@
+@font-face{
+	src:url('../fonts/Lora/Lora-Bolditalic.ttf');
+	font-family: Lora-BoldItalic;
+
+}
+#ptag{
+font-family: Lora-BoldItalic ;
+font-size: 50px;
+background-color: yellow; 
+font-color: green;
+}

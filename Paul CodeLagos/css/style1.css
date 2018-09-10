@@ -1,0 +1,11 @@
+footer{
+	border: 1px solid green;
+	margin-top: 20px;}
+#main{
+		border: 1px solid blue;
+		margin-top: 20px;
+		width-top:20px;
+		height:400;   
+	} 
+	#head{style="border: 1px solid red;
+	margin-bottom: 20px}

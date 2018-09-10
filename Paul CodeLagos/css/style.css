@@ -1,0 +1,16 @@
+body{
+	background-color: pink;
+margin: 0px;
+background-image: url('../images/paul.jpg'); 
+}
+#head{
+	
+	 text-align: center;
+	background-color: red; 
+	color: Black;
+
+
+}
+.grp{
+	margin-left:160px;
+}
